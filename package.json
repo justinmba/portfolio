@@ -4,7 +4,7 @@
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-dev-server --config webpack.dev.js --open",
+    "start": "node index.js",
     "build": "webpack --config webpack.prod.js"
   },
   "repository": {
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/cobidev/simplefolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Jacobo Martinez & Justin Barbour",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cobidev/simplefolio/issues"
