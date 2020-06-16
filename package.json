@@ -1,10 +1,10 @@
 {
   "name": "simplefolio",
   "version": "1.0.1",
-  "description": "A clean, beautiful and responsive portfolio template for Developers!",
+  "description": "Work Portfolio for Justin Barbour",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
+    "start": "npm start",
     "build": "webpack --config webpack.prod.js"
   },
   "repository": {
