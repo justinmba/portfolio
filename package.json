@@ -1,10 +1,10 @@
 {
   "name": "simplefolio",
   "version": "1.0.1",
-  "description": "Work Portfolio for Justin Barbour",
+  "description": "Portfolio for Justin Barbour",
   "main": "index.js",
   "scripts": {
-    "start": "npm start",
+    "start": "webpack-dev-server --config webpack.dev.js --open",
     "build": "webpack --config webpack.prod.js"
   },
   "repository": {
@@ -12,7 +12,7 @@
     "url": "git+https://github.com/cobidev/simplefolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez & Justin Barbour",
+  "author": "Jacobo Martinez and Justin Barbour",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/cobidev/simplefolio/issues"
