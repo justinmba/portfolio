@@ -1,7 +1,7 @@
 {
   "name": "simplefolio",
   "version": "1.0.1",
-  "description": "Portfolio for Justin Barbour",
+  "description": "Portfolio for Justin",
   "main": "index.js",
   "scripts": {
     "start": "webpack-dev-server --config webpack.dev.js --open",
